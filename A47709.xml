@@ -1,0 +1,279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the most memorable thinges in the tabernacle of Moses and the temple of Salomon according to text of scripture / by Jacob Jehudah Leon ...</title>
+            <title>Retrato del tabernaculo de Moseh. English</title>
+            <author>Templo, Jacob Judah Aryeh Leon, 1603-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47709</idno>
+            <idno type="STC">Wing L1100</idno>
+            <idno type="STC">ESTC R43374</idno>
+            <idno type="EEBO-CITATION">27355148</idno>
+            <idno type="OCLC">ocm 27355148</idno>
+            <idno type="VID">110078</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110078)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1725:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the most memorable thinges in the tabernacle of Moses and the temple of Salomon according to text of scripture / by Jacob Jehudah Leon ...</title>
+                  <title>Retrato del tabernaculo de Moseh. English</title>
+                  <author>Templo, Jacob Judah Aryeh Leon, 1603-1675.</author>
+               </titleStmt>
+               <extent>[8], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Messchaert ...,</publisher>
+                  <pubPlace>At Amsterdam :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Retrato del tabernaculo de Moseh.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Temple of Jerusalem (Jerusalem) --  Early works to 1800.</term>
+               <term>Tabernacle --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110078:1"/>
+            <pb facs="tcp:110078:1"/>
+            <p>A RELATION Of the moſt memorable thinges IN THE TABERNACLE of MOSES, <hi>AND THE</hi> TEMPLE <hi>of</hi> SALOMON, <hi>According to Text of Scripture.</hi>
+            </p>
+            <p>By JACOB JEHUDAH LEON, HEBR. <hi>Author of the Model of Salomons Temple.</hi>
+            </p>
+            <p>
+               <hi>At AMSTERDAM,</hi> Printed by <hi>Peter Meſſchaert,</hi> in the Stoof-ſteech, 1675.</p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:110078:2"/>
+            <head>A PRAYER For the Proſperitie of his ROYAL MAJESTIE.</head>
+            <p>
+               <seg rend="decorInit">H</seg>E that ſends deliverance to Kings, and giveth Dominion to Princes, whoſe Kingdom and Dominion is everlaſting: He that delivered David his ſervant from the Perillous ſword, And he who made a way through the Red Sea, and Pathes through the River Jordan: He himſelf bleſſe, preſerve, aſſiſt, make great, and more and more Exalt our Gracious Lord CHARLES the II. King and Protector of England, Scotland, France and Yreland, The King of Kings by his Merciful Benevolence preſerve, Vivifie, and deliver him from all trouble and danger. The King of Kings encreaſe and highten the Star of his Conſtellation, to prolong his dayes over his glorious Kingdome. The King of Kings put it into his heart, and into the hearts of his Nobles and Princes, to uſe benigne Clemencie towards Us, and to the Iſrael of God, our brethren under his Dominion: Amen.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:110078:2"/>
+            <head>TO THE <hi>High and Mightie</hi> PRINCE CHARLES, By the Grace of God KING <hi>of</hi> ENGLAND, SCOTLAND, FRANCE, <hi>and</hi> YRELAND, <hi>Defender of the Faith.</hi>
+            </head>
+            <pb facs="tcp:110078:3"/>
+            <opener>
+               <salute>
+                  <hi>May it pleaſe your Sacred</hi> MAJESTIE,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">P</seg>YRAMIDES and Sumptuous Aedifi<g ref="char:EOLhyphen"/>ces were wont of Old to be Dedica<g ref="char:EOLhyphen"/>ted to the Prin<g ref="char:EOLhyphen"/>ces of this World, ignorant of the things of God, which though in ſhew ſplendid and Royall, yet Exceeded not the Bounds of nature, as ſavou<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:110078:3"/> merely things Corporeall, not Spirituall. Neither did the Virtue of theſe Princes mount higher, beeing altogether taken up with wordly matters. Fitly therefore were ſuch temporall things Dedicated to them, who were not acquainted with Coe<g ref="char:EOLhyphen"/>leſtiall; But the loue of the Di<g ref="char:EOLhyphen"/>vine worſhip, that imparalel Pietie of your Majeſtie, Known not onely to your Brittains, but to all Europe, cals for the Pro<g ref="char:EOLhyphen"/>tection,
+<pb facs="tcp:110078:4"/> not of the moſt magni<g ref="char:EOLhyphen"/>ficent ſtructures of this World, but of a building, though made with hands, yet that hath God Himſelf for the Architect thereof; Vouchſafe therefore, moſt Potent Prince, Great Brittains Protec<g ref="char:EOLhyphen"/>tor and Defender of the things of God, to caſt a Benign eye upon what is here repreſented to your Sacred Majeſtie, it beeing the Exact form of the Tabernacle, ſo as it was in the Wildernes, with
+<pb facs="tcp:110078:4"/> the ſtructure of Salomons Tem<g ref="char:EOLhyphen"/>ple, the Holy Veſſels, Garments and Utenſils thereof delineated and ſet forth to the life. The which as it was graciouſly owned with devote affection 30 yeares ago and upwards, by that Serene Queen, your Majeſties Mother, ſo be pleaſed moſt noble Prince, to imitate her Pietie: The Lord God of the whole earth preſerve your Majeſtie for the Good of your great Empire; which is the
+<pb facs="tcp:110078:5"/> prayer of him thal in all humilitie caſteth himſelf at your Majeſties Feet.</p>
+            <closer>
+               <signed>JACOB JEHUDAH LEON, HEBREW.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110078:5"/>
+            <head>A RELATION <hi>Of the moſt memorable thinges</hi> IN THE TABERNACLE of MOSES, <hi>And the</hi> TEMPLE <hi>of</hi> SALOMON, According to Text of Scripture.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>THE I. CHAPTER.</hi> Relating the order or ſtation of the Tempel or Camp of the Iſraelites rownde about the Tabernacle.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He wonderfull Armie of the Iſrae<g ref="char:EOLhyphen"/>lites entring into Egipt with ſea<g ref="char:EOLhyphen"/>venty ſoules onely,<note place="margin">
+                     <hi>Deuteron.</hi> 10:22.</note> by the power<g ref="char:EOLhyphen"/>full Commaund,<note place="margin">
+                     <hi>Geneſ.</hi> 15.13.</note> which God re<g ref="char:EOLhyphen"/>vealed to (theyr firſt father) Abra<g ref="char:EOLhyphen"/>ham; this generation ſojourned, there 210 yea<g ref="char:EOLhyphen"/>res, untill the 430 yeares were fulfilled,<note place="margin">
+                     <hi>Exod.</hi> 12:40.</note> from
+<pb n="2" facs="tcp:110078:6"/> that time which God foretold Abraham. That bleſſed people of God,<note place="margin">
+                     <hi>Exod.</hi> 12.37.</note> did there, in that ſhort time increaſſe to 60000 men of the age from 20 to 60 yeares,<note place="margin">
+                     <hi>Exod.</hi> 12.38.</note> but if all the women, and all the perſons as wel men as women, which were un<g ref="char:EOLhyphen"/>der 20 and above 60 yeares of Age, ſhould bee thereunto adjoind, the ſame would then bee found to bee twoe Millions, and foure hundred thouſand people beſides the Egiptians, who went away with them (as the holy Scripture ſayth) and theyre innumerable Cattle, which they tooke with them; ſome, others are of opi<g ref="char:EOLhyphen"/>nion that there were in this greate Campe or hoſt 876 millions 9 hundred and 96 thouſand perſons.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Num.</hi> 10.11.</note>After the firſt yeare of theyre departure, the worke of the Tabernacle was made ready or finished, at which time God cauſed them to bee devided into twelve parts,<note place="margin">
+                     <hi>Num.</hi> 2.2.</note> each with theyr ſeverall Standard or Banner, in the which each of thier Armes or enſigne, was wrought, like as thier father Jacob had bleſſed each Child or Tribe,<note place="margin">
+                     <hi>Geneſ</hi> 49.3.</note> alſo the color of each Standard or
+<pb n="3" facs="tcp:110078:6"/> Flagge agreed with the colour of the Stones (in the breaſtplate of Aaron the Highprieſt) upon which its owne Tribes name was written and Theſe twelve Tribes were devided into foure parts, each part had three Banners or En<g ref="char:EOLhyphen"/>ſignes. Three ſtood on the Eaſtſide, three on the Weſt, three on the South, and three on the Northſide; all theſe twelve Tribes encom<g ref="char:EOLhyphen"/>paſſed the Tabernacle:<note place="margin">1. <hi>Chron.</hi> 5:2.</note> the Prince Jehuda (as Captaine, and Leader of his brethren) ſtood on the Eaſt, between Iſachar, and Zabulon: Ruben ſtood with Simeon and Gad towards the South: Ephraim placed himſelfe towards the Weſt with Menaſſe and Benjamin: Dan towards the North with Aſſer and Naphthali. Theſe twelve Tribes thus placed in order, foureſquare, doe take up 12 miles in compaſſe, or 24 thouſand paces: the foureſquare thwart over, each of theſe twelve Tribes, tooke up by it ſelfe a fourſquare place of 4000 paces, be<g ref="char:EOLhyphen"/>tweene the one and other tribe were 2000 pa<g ref="char:EOLhyphen"/>ces, betweene the ſaids Campe, or hoſt tho<g ref="char:EOLhyphen"/>rough all the foure ſides, and betweene the
+<pb n="4" facs="tcp:110078:7"/> building of the Tabernacle, were 8000 paces. The outermoſt 4000 of the 8000 ſerved for the feeding of theyre Cattle,<note place="margin">
+                     <hi>Num.</hi> 3.35.</note> the 2000 inner<g ref="char:EOLhyphen"/>moſt paces towards the Eaſt ſerved for the who<g ref="char:EOLhyphen"/>le houſeholding or familyes of Moſes and Aa<g ref="char:EOLhyphen"/>ron, and the other 2000 paces, of the three re<g ref="char:EOLhyphen"/>maining ſides, round about, ſerved for the whole houſekeeping of the Children of Levi, Gerſon, Kohath, Merari; Thoſe of Kohath ſett themſelves in three partitions (according to theyre three families or generations) towards the South as the Cheife, the twoe diviſions of Gerſon were towards the North, according to theyre family, alſoe the twoe families of Merari were in twoe diviſions towards the Weſt; then there remained in the heart or very midle of this hoaſt or Campe 4000 paces in the which the above mentioned Tabernacle was placed,<note place="margin">
+                     <hi>Exod</hi> 26.18.</note> the foremoſtpart towards the Eaſt, 30 cubits long, 10 cubits broad, 10 cubits high, encom<g ref="char:EOLhyphen"/>paſſed with an outermoſt Court round about raiſed with Baſes or Sockets and Pillars,<note place="margin">
+                     <hi>Exod.</hi> 27.9,</note> the Curtaines hung on the Pillars, to take up the
+<pb n="5" facs="tcp:110078:7"/> place or ſpace of the outermoſt Court, that ou<g ref="char:EOLhyphen"/>termoſt Court was 100 cubits long, 50 broad, 5 high, it was ſo placed, as that againſt the Eaſt in that outmoſt Court, an empty or voyd ſpace of 50 cubits remained, each of the three ſides round about 20 cubits, the middelmoſt ſpace was taken up with the building of the Taber<g ref="char:EOLhyphen"/>nacle; And this is the whole ſpace of the hoſte, where they pitched or reſted.</p>
+               <p>By the Gate of the outmoſt Court of the Ta<g ref="char:EOLhyphen"/>bernacle was an overflowing fountaine which with its ſpringing abundantly refreshed the whole hoſte, where it lay, even as by the migh<g ref="char:EOLhyphen"/>ty hand of God Manna rained downe from heaven, where the hoſte pitched or reſted,<note place="margin">
+                     <hi>Exod.</hi> 16.4.</note> firſt of all thir water encompaſſed the building of the Tabernacle round about, by certaine dig<g ref="char:EOLhyphen"/>ged Channels or Trenches made by the Com<g ref="char:EOLhyphen"/>maund of the Rulers of the Tribes;<note place="margin">
+                     <hi>Num.</hi> 21.19.</note> in theſe flow foure rivers out of theyre foure Corners, that water encompaſſeth the hoſte of the Levi<g ref="char:EOLhyphen"/>tes, and did likewiſe ſeparare theyr familyes one from another, and did make certaine pitts
+<pb n="6" facs="tcp:110078:8"/> betweene them, and the twelve Tribes of Iſrael, from thence flowed that water by the Southſide towards the Eaſt, and ſprung to the hoſte of the Iſraelites, and encompaſſed them round about without, and devided the place or ſtation of each Tribe, one from another, to the end, that each one might know and diſcerne, his owne Tribe.</p>
+               <p>When this hoſte would proceede theyre in<g ref="char:EOLhyphen"/>tended journey, hee that led or conducted the ſame was God all ſufficient the Lord of hoſte,<note place="margin">
+                     <hi>Num.</hi> 10.2.</note> who had revealed to Moſes, that the people ſhould depart:<note place="margin">
+                     <hi>Exod</hi> 40.36.</note> By the Children of Aaron the Highprieſt were twoe ſilver Trumpetts blowne, thereby to warne or raiſe the people,<note place="margin">
+                     <hi>Deut.</hi> 31.15.</note> then let God his royal Standard (like a pillar) ariſe from the holy Cloud, which by day covered the Ta<g ref="char:EOLhyphen"/>bernacle and by night with its ſhining beames or glance imprinted the Tabernacle with his wonderfull fire and glory, this went before them,<note place="margin">
+                     <hi>Deut.</hi> 1.33.</note> betweene heaven and earth, as a Guide to ſhow them the way which they muſt goe, the beames of that divine fire within the Pillar, en<g ref="char:EOLhyphen"/>lightened
+<pb n="7" facs="tcp:110078:8"/> them in the darke night, to the end that they ſhould not wander out of theyr way, and by day the ſaid pillar covered the whole hoſte, and did likewiſe preſerve them from the heate of the Sunne, from wicked enemyes,<note place="margin">
+                     <hi>Num.</hi> 10.34.</note> and devouring beaſts.</p>
+               <p>The Tribe of Judah with his twoe Brethren Iſachar, and Zabulon followed 2000 paces be<g ref="char:EOLhyphen"/>hind the holy Standard, which went before them: at the ſame diſtance followed them, the twoe Companies of Levites, Gerſon, and Me<g ref="char:EOLhyphen"/>rari, they carryed the baſements, or ſockets, pil<g ref="char:EOLhyphen"/>lars, boards, coverings, curtaines, cordes, and pinnes, of the Tabernacle, and all the appurte<g ref="char:EOLhyphen"/>nances or neceſſaryes thereof, the ſame were all carryed on ſix wagons or carriages, which were given by the Cheiftaines of the Tribes, to the conſecration of the Tabernacle: thoſe wa<g ref="char:EOLhyphen"/>gons were drawne by twelve Kine or Heifers then alſoe followed the families of the Levites,<note place="margin">
+                     <hi>Num.</hi> 7.3.</note> with all theyre neceſſaries.</p>
+               <p>After theſe followed Ruben with his twoe Brethren Simeon and Gad; Afterwards fol<g ref="char:EOLhyphen"/>lowed
+<pb n="8" facs="tcp:110078:9"/> in the middle of the whole hoſte Moſes and Aaron, with theyr children (amongſt the children of Kohath) conducting the Arke of the Covenant with the other golden Inſtruments which muſt bee borne or carryed upon the ſhoulders of the abovenamed Kohathites, after the ſame were covered with the Covernigs, al<g ref="char:EOLhyphen"/>though in the beginning of theyre Journey (when they were departed form Mount Sinai) the Arke was in the ſame manner before the Hoſte,<note place="margin">
+                     <hi>Num.</hi> 10.33.</note> untill they had paſſed the River Jordan. In the third place folloved Ephraim, with his Companion tribes Manaſſe and Benjamin: and at laſt followed Dan with his adjoined Tribes Aſſer, and Naphthali, under whome were the weake of the hoſte, alſoe the Companies of Egiptians, who went with them.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Deut.</hi> 1.19.</note>In this manner travailed that wonderfull hoſt thorough wilde and unpathed, unknowne wayes, the ſpace of fortie yeares, without ſuffer<g ref="char:EOLhyphen"/>nig any lack of any neceſſaries;<note place="margin">
+                     <hi>Deut.</hi> 29.4.</note> this did the mighty hand of God.<note place="margin">
+                     <hi>Deut.</hi> 2.7.</note> This hoſt did, there, fortie and twoe ſeverall times take up ſeverall
+<pb n="9" facs="tcp:110078:9"/> reſting places in ſome for twoe dayes ſpace; in ſome one day, alone,<note place="margin">
+                     <hi>Num</hi> 33.3.</note> or from the evening till the morning, and ſome, ſome mouthes, and ſome, certaine yeares,<note place="margin">
+                     <hi>Num.</hi> 9.20.</note> for they reſted 19 yaares in Kades, which was one of theyre reſting places.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>II. CHAPTER.</hi> Concerning Moſes his Tabernacle.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He worke of the holy Tabernacle was in ſuch a holy eſtimation,<note place="margin">
+                     <hi>Exo.</hi> 36.2.</note> that all thoſe who were permitted to worke thereon, from amongſt the Iſraelites, were thereunto qualifyed, and incited by the Spirit of God.</p>
+               <p>The Materialls which were uſed in this buil<g ref="char:EOLhyphen"/>ding, were gold, ſilver, braſſe, woll,<note place="margin">
+                     <hi>Exo.</hi> 35.3.</note> dyed ſhy-colour, purple, ſcarlet (according to offerings) ſilke, pure Linnen, rich goates haire, Ramskins dyed red, curious ſpotted Badgers skins, ſhit<g ref="char:EOLhyphen"/>tim wood, pure and cleare oile of olives, the principall Aromatical druggs, and precious ſtones, all in very greate quantities, in ſoe much
+<pb n="10" facs="tcp:110078:10"/> that the gold alone amounted to 29 Talents, 739 Sheckles, (as the holy Scripture ſayth) which beeing reduced and compared to and with the weight of our pounds at ſixteene oun<g ref="char:EOLhyphen"/>ces each pound, and halfe an ounce for each ſheckle,<note place="margin">
+                     <hi>Exod.</hi> 24.38.</note> and 3000 ſheckles for each Talent, which make 93 pounds and 12 ounces, doe amount unto 2741 pound and 9 ounces weight; the value whereof beeing accounted at 12300 ducats for each Talent make together 368918 Spaniſh duckats, and reduced into Hollands gilders (each gilder beeing about two ſhillings Engliſh money) make one Million one hundred and ſix thouſand 745 gilders, (each duckat beeing three gilders.) The Talents of ſilver (as the Scripture ſayth) were one hundred, and one thouſand 730 ſhikles, beeing reduced into the ſame pounds, doeth amount unto 9429 pounds, and one ounce, the value thereof beeing calcu<g ref="char:EOLhyphen"/>lated, at one thouſand and twelve ducats for each Talent, doth make one hundred and one thouſand 783 duckats, and in gilders doeth make three hundred, five thouſand, 315 gilders,
+<pb n="11" facs="tcp:110078:10"/> 15 ſtivers, 3 pennings, and all together, aſwel gold als ſilver, doeth amount unto 460700 du<g ref="char:EOLhyphen"/>cats, and in gilders doeth make 14 tunns of gold 12 thouſand 104 gilders 15 ſtivers, three pen<g ref="char:EOLhyphen"/>nings Hollands money, each tunne of gold beeing at leaſt 10000 pounds ſtarling, and each gilder 2 ſhillings ſterling.</p>
+               <p>The principall perſons who were indewed by God, and made this worke were Beſaleel and Aholiab, and the workemen (whoſe number is unknouwne) did with diligence fully finiſh the ſaid worke in the ſpace of ſix monthes.</p>
+               <p>The Veſſels or inſtruments, with which the holy Tabernacle was ſerved, were of gold and ſilver, whereof wee hereafter ſhall diſcourſe.</p>
+               <p>The Levites who ſerved the Tabernacle were 8580 perſons from thirty to fiftie yeares, who were devided into three Companyes, according to Levies three ſonnes, Gerſon, Kohath, Mera<g ref="char:EOLhyphen"/>ri, the Kohathites were 2750, theſe, when the hoſt tooke theyr journey, carryed (as the cheife) with golden handbars upon theyre ſhoulders, the moſt holy and precious inſtruments, namely
+<pb n="12" facs="tcp:110078:11"/> the Arke of the Covenant, The golden Table, the golden Candleſticke, with the ſeaven Lamps, the Altar of Incenſe, the greate Braſſe Altar of Burnt offrings: when they were firſt covered with theyr coverings, the Gerſonites were 2630, they conducted on twoe wagons or Carriages (which they had of the abovenamed ſix wagons) the Curtaines of the Tabernacle, the Courtaines of the Court round about, the coverings, cords, braſſe pots with all the appur<g ref="char:EOLhyphen"/>tenantes. The Merarites were 3200, they con<g ref="char:EOLhyphen"/>ducted the other foure wagons or carriages, in the which were 48 gilded boards: for the buil<g ref="char:EOLhyphen"/>ding of the Tabernacle were nine gilded Co<g ref="char:EOLhyphen"/>lumns or Pillars, and one hundred ſilver baſes or Sockets, which belonged thereunto, with the 36 Columnes or Pillars of the Court of the Ta<g ref="char:EOLhyphen"/>bernacle, and theyre braſſe Baſes or Sockets, upon which the pillars were raiſed.</p>
+               <p>Concerning the Prieſts, who ſerved the Ta<g ref="char:EOLhyphen"/>bernacle, they were not more then foure, namely Moſes, Aaron, and his twoe Sonnes Eleazar and Ithamar, as the principall perſons in the Congre<g ref="char:EOLhyphen"/>gation.</p>
+               <pb n="13" facs="tcp:110078:11"/>
+               <p>The place where in the Tabernacle was rai<g ref="char:EOLhyphen"/>ſed was in the heart or middelmoſt place of the hoſte of the Levites, which was encompaſſed by the hoſt of the Iſraelites, where they pitched, but the hoſt was ſeparated from the Levites 400 paces.</p>
+               <p>The manner how the Tabernacle was reared or raiſed, and againe taken down is a moſt ſweete and curious ſpeculation but becauſe that matter doeth require much writeing wee referre the reader to the treatiſe of the Tabernacle of Mo<g ref="char:EOLhyphen"/>ſes, which wee haue publiſhed, where you ſhall finde all the ſame at large.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>III. CHAPTER.</hi> Concerning the Glorious Temple of Salomon.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N ſtead of the holy Tabernacle,<note place="margin">
+                     <hi>Num.</hi> 2.15.</note> king Salomon did in Jeruſalem, on the very top of Mount Moria (where Abraham offered up his Sonne unto God) build the holy Temple which was fully finiſhed in
+<pb n="14" facs="tcp:110078:12"/> the 487 yeare after Iſraels departure out of Egipt.<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Chron.</hi> 3:1.</note> About the ſaid Temple did worke ſea<g ref="char:EOLhyphen"/>ven yeares long 163600 perſons, of the which were 3300 Maiſter workemen, and 300 Com<g ref="char:EOLhyphen"/>maunders over them all (according to others the number was 4100900) king Salomon did frame this building, according to the order, Com<g ref="char:EOLhyphen"/>maund and draught,<note place="margin">1. <hi>King.</hi> 6.1. <hi>and</hi> 5.15.</note> which his father David (ac<g ref="char:EOLhyphen"/>cording to the Commaund of the Prophet Sa<g ref="char:EOLhyphen"/>muel) had given him.<note place="margin">1. <hi>Chron.</hi> 28.11.</note> Hee prepared for that building an infinite Number of all kinde of Ma<g ref="char:EOLhyphen"/>terialls, the gold alone was 108000 Talents and ten thouſand drachmas, which beeing accounted at 93 pounds and 12 ounces weight for each Ta<g ref="char:EOLhyphen"/>lent, will weigh a hundred thouſand and 25 thouſand and 78 pound, and for every talent 12300 ducats, will amount unto 1328 Millions and 410000 and 220 ducats, and in gilders 5977 (Holland) millions 846 thouſand 123 gil<g ref="char:EOLhyphen"/>ders, at 4 gilders and a halfe each duckat accor<g ref="char:EOLhyphen"/>ding to theyr valuation in Holland and thoſe Lands.<note place="margin">1. <hi>Chron.</hi> 22.14.</note> This gold beeing computed into tuns of gold (each tun of gold at 1000 pound ſtarling
+<pb n="15" facs="tcp:110078:12"/> at leaſt) doe ariſe to 59 thouſand, 766 tuns of gold and 46123 gilders.</p>
+               <p>The ſilver which hee prepared thereunto was a thouſand times a thouſand and 17000 ta<g ref="char:EOLhyphen"/>lents, which accounted by our pounds at 18 pieces or reals of eight to each pound, and 93 pounds and 13 ounces weight for each talent doe ariſe to 95 millions 343 thouſand 753 pounds weight, which beeing accounted at the rate of 1012 ducats for each talent, doe make a thouſand and 29 millions, 700 and 12 thouſand and 500 duckats as above, making in gilders foure thouſand, ſix hundred, 33 millions, ſea<g ref="char:EOLhyphen"/>ven hundred and ſix thouſand 250 gilders, this maketh 46000 and 337 tuns of gold and 250 gilders, the whole quantity of gold and ſilver beeing now valued, doeth make ten thouſand, ſix hundred and ſeaventy millions, 518 thou<g ref="char:EOLhyphen"/>ſand 750 gilders. In weight it is 26 thouſand 367 laſts, and 828 pounds accounting 4000 pound weight to each laſt, in ſoe much that to carry this gold and ſilver over the ſeas there muſt bee a thouſand ships, each ship of the burthen
+<pb n="16" facs="tcp:110078:13"/> of 26 laſts: or elſe 53 Eaſt-India ships, each ship of five hundred laſts burthen, beeing reduced into tuns of gold, you ſhal find it to bee, one hun<g ref="char:EOLhyphen"/>dred and ſix thouſand, one hundred and fifteene tuns of gold, and 52372 gilders.</p>
+               <p>
+                  <note place="margin">1. <hi>Chron.</hi> 22.14.</note>You muſt note, that this gold and ſilver was prepared alone by King David, beſides that which King Salomon added thereunto, out of his treaſuries (by commaund of his father) which in compariſon of his greate treaſure and glory, ſhould bee at leaſt as much more which beeing added to the former, would fully lade one hun<g ref="char:EOLhyphen"/>dred and ſix greate Eaſt-India ships, in ſoe much that the Scripture ſayth that gold and ſilver (in Salomons time) was accounted as ſtones,<note place="margin">Joſep. Anti. Jo. of Jew. Wars. L. <hi>6. 6.</hi>
+                  </note> and elſewhere, that ſilver was that time not at all eſteemed.</p>
+               <p>
+                  <note place="margin">1. <hi>King.</hi> 10.27. <hi>and</hi> 11.21.</note>The forme of the Temple was juſt foureſquare, made of very large white marbre, very pre<g ref="char:EOLhyphen"/>tious, yea ſome ſay, ſoe large, that out of one a faire houſe might bee built: the mount or hill, whereon the Temple ſtood (by the neate and forace whiteneſſe and wel compactneſſe of
+<pb n="17" facs="tcp:110078:13"/> that building) did afarre of ſeeme to bee a ſno<g ref="char:EOLhyphen"/>wy hil, and the glittering gould beweene,<note place="margin">
+                     <hi>Mid.</hi> 2 1. <hi>Jo. Jew. Wars.</hi> 6. 6.</note> did ſhine and reflect as the dazeling Sun; the greate<g ref="char:EOLhyphen"/>neſte of the building was foure Stadium, or fur<g ref="char:EOLhyphen"/>longs in compaſſe; within the Portalls it was 500 cubits, the height was 300 cubits, in ſome places 400, maketh 800 foote high,<note place="margin">
+                     <hi>Midot.</hi> 2.4.</note> each foote of 12 inches round about environed with very deepe dales, to ſeperate the Temple from the Citie: this piece of worke was divided into three principal parts, namely the Court of the Hea<g ref="char:EOLhyphen"/>thens or People was the outermoſt part, 500 cubits fourſquare, and encompaſſed with foure admirable and ſtately Portals, each reſting upon three rowes of Pillars, of the faſhion of leafe worke, each Pillar, hewen out of one marble ſtone, alone, was 25 cubits or 50 foote high: by the opening of the windowes at the 4 Galleryes or Walkes, were the Railes of pure Silver, and the five doores of the Gates were covered, or drawne over with ſilver plates.</p>
+               <p>The ſecond parte was within the 4 Galleries placed againſt the North,<note place="margin">
+                     <hi>Abarb.</hi> 1. <hi>King</hi> 6.</note> in twoe outermoſt
+<pb n="18" facs="tcp:110078:14"/> Courts,<note place="margin">
+                     <hi>Jew. Wars.</hi> 6. 6. <hi>Joſep.</hi> 6. 6. <hi>Antiqui.</hi> 1. 15. 14. <hi>Midot.</hi> 1. 3. <hi>and</hi> 5. 1.</note> the Court of the Iſraelites towards the eaſt 135 cubits fourſquare, the Court of the Prieſts towards the Weſt, in which the ſacrifices were offered, was broad 135 cubits, and 187 cubits long, round about within and without encompaſſed with certaine Halls or Chambers, in which the three Principalities aſſembled, and alſoe therein to performe all the ſervices of the Temple, in the midle of the Outmoſt Court, was the Pallace of the Lord God, covered with maſſy gold plates within, and over the roofe, the length was 100 cubits, and likewiſe as broad, 120 cubits high; it had three principal parts, the Entrance, the Sanctuary, and the Holy of Holies, or moſt holy place, cituate toward the Weſt; the Halls or Chambers of the Treaſures of the Temple round about, were 38 Cham<g ref="char:EOLhyphen"/>bers; The hidden Sollerings or Chambers, in which were layd up all the materialls of the Ta<g ref="char:EOLhyphen"/>bernacle which were packt up, the ſame tooke up one third part, and under the Temple in the Cellars were the Bathes, wherein the Prieſts bathed themſelves: the perſons which watched
+<pb n="19" facs="tcp:110078:14"/> every night were 240,<note place="margin">
+                     <hi>Midot.</hi> 1. 3.</note> divided into 24 bands or Companyes, each Company at leaſte ten men, three Companyes of Preiſtes and 21 Levites, which were devided and placed at all the Cor<g ref="char:EOLhyphen"/>nets, gates, and Courts of the Temple round about. Concerning the other appendences of this building ſoe wonderfull, ſoe precious, and ſo holy, I referre you to the Treatiſe concerning the Pourtraicture of the Temple, where I have layd forth every thing moſt plaine.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>III. CHAPTER.</hi> Concerning the Veſſels and Inſtruments of the Temple.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He wonderfull greate multitude of holy Veſſels uſed in the ſervice of the holy Temple of God, doeth take up abun<g ref="char:EOLhyphen"/>dance of gold and ſilver, the golden Veſſels were 340 thouſand, the ſilver were 470 thou<g ref="char:EOLhyphen"/>ſand, making together 810 thouſand, the prin<g ref="char:EOLhyphen"/>cipall were for Ornament to the holy Temple,<note place="margin">
+                     <hi>Jem. Wars.</hi> 6. 6.</note> and of the Tabernacle at theyre ſett times: but
+<pb n="20" facs="tcp:110078:15"/> the moſt glorious were for the Arke of the Co<g ref="char:EOLhyphen"/>venant, that was wholly covered with Gold, with the twoe golden Cherubims: the Arke was twoe cubits and a halfe longe, and the breath thereof one cubit and a halfe, and ſoe much was alſoe the hight thereof, and did weigh with the Cherubims 200 pound weight of pure Gold, beſides the Boards the 10 Golden Tables, upon which the ſhewbread was placed, were each of them twoe cubits long, one cubit broad, and one cubit and a halfe high, after the faſhion of Moſes, and contained one hundred pounds in weight.<note place="margin">
+                     <hi>Midot</hi> 2.5. <hi>Antiq.</hi> 8.2.</note> The 10 golden Candleſticks (by each whereof were 7 golden Lamps) the height of each was three cubits, the breadth above twoe cubits, (after the manner of Moſes) the gold of each weighed 100 pound weight: the Altar of Incenſe or ſweete perfume was alſoe 100 pounds weigt in gold, which was in height twoe cu<g ref="char:EOLhyphen"/>bits, and one cubit foureſquare: the Altar of burnt offerings was braſſe, twenty cubits foureſquare, the height 10 cubits, did weigh 7000 Aro<g ref="char:EOLhyphen"/>bas (each Aroba containing 25 pounds weight.)
+<pb n="21" facs="tcp:110078:15"/> The ten braſſe Lavers with theyre arriages,<note place="margin">
+                     <hi>Midot</hi> 2. 5. <hi>and.</hi> 5. 1.</note> or ba<g ref="char:EOLhyphen"/>ſes on which they were placed or ſett, were each foure cubits foureſquare, and three cubits high, one Baſe weighed 2000 Talents, each Talent of 93 pounds and upwards; the braſen ſea, out of which the Prieſt cleanſed or purified them<g ref="char:EOLhyphen"/>ſelves, was 10 cubits large foureſquare, five cubits high, the Compaſſe thereof was thirtie cubits, the mettle or braſſe thereof weighed 1000 and 800 Arobas, (as above mentioned.) But with the 12 Bullocks (whereon the ſea ſtood) weighed 32500 Arobas, ſo that the holy Scripture ſayth, that the abundance of mettle or braſſe was not to bee numbred.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>V. CHAPTER.</hi> Of the Garments of the Prieſts.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Woe ſeveral ſorts of Garments were the Prieſts wont to uſe, when they ſerved in the holy Temple: the one uſed by the Common Prieſts in generall, which conſiſted of 4 peeces or parcells: the firſt was a very pure
+<pb n="22" facs="tcp:110078:16"/> linnen paire of breeches or drawers, which reached from the loines to below the knees which was worne to cover theyr nakedneſſe: the Breeches upon the naked body, was threfore cloſe as a purſe when it is ſhutt, which was drawn together with ſtrings about the Loines: the ſecond peece was a certaine dubble ſhirt woven after the manner of Checkerworke, which opened alongſt the ſhoulders, ſoe much that the head could goe thorough, which ope<g ref="char:EOLhyphen"/>nings were afterward cloſed together with loopes, thereby to keepe the breaſt with reve<g ref="char:EOLhyphen"/>rence covered: this Coate hung downe to the heeles: the ſleeves were wooven apart, but of the ſame ſtuffe, and ſewed unto the ſaid ſhirts: the ſleeves were not wide, theyre length was to the joint of the hand that ſoe theyr ſervice might not bee hindred: the third was a linnen Girdle made as a ſwadling band, the breadth three inches, the length 32 cubits, wrought with leafe worke, with wooll, or ſilke, purple and ſcarlet: the ſaid girdling beeing girded under the Armepirts, ſwathd the ſhirt cloſe
+<pb n="23" facs="tcp:110078:16"/> about the body and breſt, the twoe looſe ends of the Girdle hung from the loines downwards for ornament: the fourth was a veſture made of a linnen ſwadling Band, of the faſhion of a Cap, and was ſewed round about like a Cap, with a Border: this Cap (ſome ſay) was, covered over with Tiffany, Cypres or the like, becauſe no ſtitches ſhould bee ſeene bare; this Cap covered the leaſt part of the forehead; and behinde the eares there were ſtrings made faſt to the Cap which were tyed faſt under te Chin, to the end, that the Cap ſhould not fall of in theyr ſervice.</p>
+               <p>Beſides the ſaid foure garments, (which were alſoe uſed by the Highprieſt) the Highprieſt did alſoe uſe foure other Garments, (which firſt parts are already mentioned:) the firſt was a ſtately woolen coate (but as others ſay) of ſilke, of askie colour, wholly woven all of one peece, without ſeame, without ſleeves, parted into twoe skirtes in the ſides, with a hole for the head above, which reached from before to behinde, thorough which, the Highprieſt thruſt his
+<pb n="24" facs="tcp:110078:17"/> head: this ſhirt or coate had armeholes, without ſleeves, and under the hemme of the twoe ſhirts hung 72 golden Bells, with as many Buttons made of wooll or ſilke like Pomegranates of skiecolour purple and ſcarlet the halfe of the buttons or Pomegranates and Bells upon each ſchirt, a Pomegranate betweene twoe Bells, a and Bell betweene twoe Pomegranates: the lowermoſt ends of the Bells and Pomegranates hung even with the hemme of the under Coat.</p>
+               <p>The ſecond was a garment made in faſhion as a waſtcoate, which covered the backe, hanging from the necke to the Loines, the breadth covered the backe and the ſides, but not the breaſt, for there it was open about a ſpan in length foureſquare, therein to place the breaſt plate with was juſt fitted thereunto: at the lower<g ref="char:EOLhyphen"/>moſt corner of thier garment there were twoe longe ſtrings, wherewith the Prieſtes loines were begirt, to the end that the garments might fit cloſe to the body, and alſoe to the end that the breaſtplate might reſt thereupon; this garment was woven of gould and the pureſt linnen and
+<pb n="25" facs="tcp:110078:17"/> wollen (ſome ſay) of ſilke, the colour was skie<g ref="char:EOLhyphen"/>colour, purple, and ſcarlet, it had on ecah ſide above, a shoulder piece in the manner of a band or ſwadling band, which tooke up the breadth from the necke to the shoulder, which was joined and laced thorough gold loop inholes to the uppermoſt edge of the uppergarment: upon each shoulderband was a precious ſtone layd or ſet in gold, on thoſe twoe ſtones were written or engraved the names of the twelve Tribes, on each ſtone ſix names according to theyr birth. The third was a certaine piece of twoe ſpans length, beeing once foulded together juſt a ſpan foureſquare, beeing of the ſame ſtuffe as the abovenamed garment: this was called the breaſtpiece, heart peece or breaſtplate: within the fouldings thereof was placed the greate name of the LORD GOD, (which name God himſelfe had revealed to Moſes) by vertue and power whereof thoſe holy letters (with which hee would anſwer) which were graven in the ſtones of the breaſtplate, gave a pure and plaine glance from themſelves, in cleare plaine and
+<pb n="26" facs="tcp:110078:18"/> gliſtering beames: the breaſtplate was covered over with a plate of gould in the which were wrought 12 foureſquare holes, which were made fitt upon the upriſeing ſtones, which ſtones were very rare all af one bigneſſe, ſett in foure rowes, three deepe, equally fitting one another, ſoe artificially ſet in gold, that thoſe 12 Stones did ſeeme to bee one ſtone. In the twoe upper<g ref="char:EOLhyphen"/>moſt Corners of the breaſtplate were twoe gould rings, thorough which with twoe gold chaines the twoe ſhoulderpieces of the after-garment were faſtened to the golden loopes, and ſtones: the undermoſt corners of the breaſt<g ref="char:EOLhyphen"/>plate had twoe gold ringes, thorough which skiecolourd ſtrings did run, which were faſtened by the twoe lowermoſt goldrings of the after<g ref="char:EOLhyphen"/>garment, becauſe the ſame might bee put on the girdles upon the edges of the aftergarment. The fourth was the Highprieſts golden forehead plate, twoe inches broad, the length was from the one ſide of the head to the other: the op<g ref="char:EOLhyphen"/>permoſt edge of the forehead plate had points, as flower points or ſuch as crownes have, upon
+<pb n="27" facs="tcp:110078:18"/> this golden plate were driven or beaten out letters to bee read, namely, <hi>Kodes Laadonnai,</hi> which is interpred, Holineſſe to the Lord. To this golden forehead plate were faſtned three-skie colour ſtrings, at each end one, and one in the middle of the uppermoſt edge: the ſtrings were bound faſt behinde the head, the middle<g ref="char:EOLhyphen"/>moſt whereof went thwart over the middle of the cap: but others ſay, that this threefold ſtringe or three skiecolourd ſtrings or bands, were wreathed one withinaother according to the breadth of the ſaid golden plate, and were made faſt to the edges of the plate, and that the ſame was (without beeing tyed) put upon the Highprieſts cap, ſtanding in the forme of a crowne upon the Highprieſt head This was the forme and nature of the eight ſa<g ref="char:EOLhyphen"/>cerdotall or prieſtly garments, wherewith the Temple was ſerved, even as the holy Scripture declareth unto us.</p>
+            </div>
+            <trailer>END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
